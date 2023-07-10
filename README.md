@@ -18,12 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/trimstray" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
-  </a>
-</p>
-
 
 
 <br>
