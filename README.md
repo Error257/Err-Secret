@@ -57,23 +57,6 @@ Before adding a pull request, please see the **[contributing guidelines](.github
 
 All **suggestions/PR** are welcome!
 
-### Code Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
-
-### Financial Contributors
-
-<p align="left">
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-</p>
-
 ## :newspaper: &nbsp;RSS Feed & Updates
 
 GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
